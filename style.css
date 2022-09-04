@@ -1,0 +1,27 @@
+body {
+  background-color: white;
+}
+canvas#renderer {
+  background-color: gray;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 500px;
+  width: 500px;
+}
+canvas#renderer2 {
+  background-color: gray;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 500px;
+  width: 500px;
+  margin-left: 20px;
+}
+
+.container{
+  padding:200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
